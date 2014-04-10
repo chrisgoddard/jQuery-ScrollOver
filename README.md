@@ -29,7 +29,7 @@ $(element).scrollover({
   /* options */
   
   motion : false, // Default: false, set to true to have function fire on every scroll event
-  trackElem : 'body', Default: 'body', element the scroll scroll event is tracked from
+  trackElem : 'body', Default: 'body', element the scroll event is tracked on
 
 });
 ```
