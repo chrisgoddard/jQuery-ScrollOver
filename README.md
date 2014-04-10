@@ -9,7 +9,7 @@ By default function will fire only once during a single top-to-bottom scroll, bu
 
 Usage
 =====
-
+```
 $(element).scrollover({
 
   before: function(elem){
@@ -32,3 +32,4 @@ $(element).scrollover({
   trackElem : 'body', Default: 'body', element the scroll scroll event is tracked from
 
 });
+```
